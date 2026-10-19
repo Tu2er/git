@@ -1,2 +1,1 @@
-# git
-Full Git Knowledge
+# Full Git Knowledge
