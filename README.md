@@ -21,3 +21,13 @@ git add <file-name>
 ```
 git add .
 ```
+## commit file
+```
+git commit -m 'message'
+```
+## push file
+```
+git push origin main
+```
+git push -u origin main
+```
