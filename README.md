@@ -6,6 +6,10 @@ git config --global user.name 'username'
 ```
 git config --gloabal user.email 'useremail'
 ```
+## list configuration
+```
+git config --list
+```
 ## clone a repo (auto add git init)
 ```
 git clone <repo-link>
@@ -24,6 +28,13 @@ git add .
 ## commit file
 ```
 git commit -m 'message'
+```
+## log
+```
+git log
+```
+```
+git log --oneline
 ```
 ## push file
 ```
