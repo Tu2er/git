@@ -40,6 +40,10 @@ git init
 ```
 git remote add origin <github-link>
 ```
+## verify remote
+```
+git remote -v
+```
 ## rename remote alias(name)
 ```
 git remote rename <old-name> <new-name>
