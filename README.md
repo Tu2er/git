@@ -70,7 +70,7 @@ git pull origin <branch-name>
 ```
 git pull
 ```
-### branch check
+## branch check
 ```
 git branch
 ```
@@ -95,7 +95,18 @@ git switch <branch-name>
 ```
 git branch -m <new-branch-name>
 ```
-### delete a branch
+```
+git branch -m old-name new-name
+```
+## delete a branch
 ```
 git branch -d <branch-name>
+```
+## force delete a branch
+```
+git branch -D <branch-name>
+```
+## delete branch from github
+```
+git push origin --delete branch-name
 ```
