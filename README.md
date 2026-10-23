@@ -59,3 +59,11 @@ git remote -v
 ```
 git remote rename <old-name> <new-name>
 ```
+## remote url-check
+```
+git remote get-url origin
+```
+## pull
+```
+git pull origin <branch-name>
+```
