@@ -67,3 +67,35 @@ git remote get-url origin
 ```
 git pull origin <branch-name>
 ```
+```
+git pull
+```
+### branch check
+```
+git branch
+```
+## create new branch
+```
+git branch <new-branch>
+```
+```
+git checkout -b <new-branch>
+```
+```
+git switch -c <new-branch>
+```
+## branch navigation
+```
+git checkout <branch-name>
+```
+```
+git switch <branch-name>
+```
+## rename branch name
+```
+git branch -m <new-branch-name>
+```
+### delete a branch
+```
+git branch -d <branch-name>
+```
