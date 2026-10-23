@@ -29,5 +29,18 @@ git commit -m 'message'
 ```
 git push origin main
 ```
+```
 git push -u origin main
+```
+## create a git repo
+```
+git init    
+```
+## connect remote to local
+```
+git remote add origin <github-link>
+```
+## rename remote alias(name)
+```
+git remote rename <old-name> <new-name>
 ```
