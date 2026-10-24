@@ -110,3 +110,22 @@ git branch -D <branch-name>
 ```
 git push origin --delete branch-name
 ```
+## stash
+```
+git stash
+```
+```
+git stash apply
+```
+```
+git stash drop
+```
+```
+git stash pop
+```
+```
+git stash list
+```
+```
+git stash clear
+```
