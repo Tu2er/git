@@ -129,3 +129,13 @@ git stash list
 ```
 git stash clear
 ```
+## tag
+```
+git tag
+```
+```
+git tag -a <version-name> -m 'message'
+```
+```
+git tag -a <version-name> <commit-hash> -m 'message'
+```
