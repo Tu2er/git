@@ -134,6 +134,9 @@ git stash clear
 git tag
 ```
 ```
+git tag <version-name>
+```
+```
 git tag -a <version-name> -m 'message'
 ```
 ```
