@@ -129,6 +129,9 @@ git stash list
 ```
 git stash clear
 ```
+```
+git stash push -m "WIP: working on new feature"
+```
 ## tag
 ```
 git tag
@@ -148,4 +151,11 @@ git commit --amend
 ```
 ```
 git commit --amend -m 'message'
+```
+## restore (files from staged area and discarding)
+```
+git restore --staged <filename> #to unstaged a file
+```
+```
+git restore <filename> #to discard a file(modified file)
 ```
