@@ -159,3 +159,16 @@ git restore --staged <filename> #to unstaged a file
 ```
 git restore <filename> #to discard a file(modified file)
 ```
+## reset
+```
+git reset <filename> #same as git restore --staged <filename>
+```
+```
+git reset --soft HEAD~1
+```
+```
+git reset --mixed HEAD~1
+```
+```
+git reset --hard HEAD~1
+```
