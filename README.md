@@ -172,3 +172,10 @@ git reset --mixed HEAD~1
 ```
 git reset --hard HEAD~1
 ```
+## alias
+```
+[alias]
+    st = status
+    lg = log
+    psh = push
+```
