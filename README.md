@@ -142,3 +142,10 @@ git tag -a <version-name> -m 'message'
 ```
 git tag -a <version-name> <commit-hash> -m 'message'
 ```
+## amend ( change commit name)
+```
+git commit --amend
+```
+```
+git commit --amend -m 'message'
+```
