@@ -4,7 +4,7 @@
 git config --global user.name 'username'
 ```
 ```
-git config --gloabal user.email 'useremail'
+git config --global user.email 'useremail'
 ```
 ## list configuration
 ```
